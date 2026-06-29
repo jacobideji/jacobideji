@@ -1,6 +1,6 @@
 ### Hello, I'm Jacob Ideji.
 
-I help governments, regulated industries, and high-growth firms securely deploy AI agents in production. More than twenty years of cybersecurity work, much of it on Cisco's Federal Security Engineering team, has shaped how I think about risk, response, and the discipline of getting things right under pressure. I hold CCDE, CISM, CEH, and SCPM certifications, an MBA from SMU, and advanced computer security training from Stanford. I am also a U.S. Army veteran.
+I help governments, regulated industries, and high-growth firms securely deploy AI agents in production. More than twenty years of cybersecurity work, much of it on Cisco's Federal Security Engineering team, has shaped how I think about risk, response, and the discipline of getting things right under pressure. I hold CCDE, CISM, CEH, and SCPM certifications, an MBA from SMU, and advanced computer security training from Stanford.
 
 #### What I'm building
 
